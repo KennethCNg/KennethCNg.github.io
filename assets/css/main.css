@@ -8416,3 +8416,8 @@
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+.deets {
+	font-size: 14px;
+	/*font-family: 'Open Sans Condensed', sans-serif;*/
+}
